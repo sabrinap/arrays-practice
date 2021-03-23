@@ -1,4 +1,4 @@
-/* Name: Sabrina Pinera
+/* 
 Date: 11/06/18
 Section: 5
 Assignment: Homework 5
@@ -7,7 +7,7 @@ About this project: To gain practice with arrays and common array algorithms,
                     as well as the use of array parameters in functions.
 Assumptions: I assume the correct user input and output will be displayed
 
-All work below was performed by Sabrina Pinera*/
+*/
 //libraries
 #include <iostream>
 #include <cstdlib> // for srand and rand
